@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+body {
+    font: 12pt Arial;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Lobster';
+    font-weight: normal;
+}
+
+input[type=number] {
+    font-size: 12pt;
+}
+
+input[type=submit] {
+    background-color: #F78E2E;
+    color: white;
+    font-size: 12pt;
+    padding: 5px;
+}
